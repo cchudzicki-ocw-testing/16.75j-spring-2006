@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section includes the detailed notes for respective
+  lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -81,7 +83,7 @@ _Load and Spill Analysis_
 \- Estimation of Unconstrained Demand
 {{< tdclose >}}
 {{< tdopen >}}
-Load Factor Analysis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 82d69964-30e4-1e70-36f8-27aadd8ea3f3 "PDF" %}}) (Courtesy of Boeing. Used with permission.)  
+Load Factor Analysis ({{% resource_link 82d69964-30e4-1e70-36f8-27aadd8ea3f3 "PDF" %}}) (Courtesy of Boeing. Used with permission.)  
   
 Airline Demand Analysis and Spill Modeling ({{% resource_link f990b2cd-2141-f75c-d9b3-48051af762e7 "PDF" %}})
 {{< tdclose >}}
@@ -115,7 +117,7 @@ _Passenger Choice Models_
 {{< tdopen >}}
 Introduction to PODS Passenger Choice Models ({{% resource_link 04374703-df2a-aeeb-5f89-950400d75757 "PDF" %}})  
   
-Decision Window Model (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f4cf28d8-7d1a-c891-f5fa-4ebd5faa557d "PDF" %}}) (Courtesy of Boeing. Used with permission.)
+Decision Window Model ({{% resource_link f4cf28d8-7d1a-c891-f5fa-4ebd5faa557d "PDF" %}}) (Courtesy of Boeing. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +222,7 @@ _Scheduling and Operational Constraints_
 \- Demand Driven Dispatch - Flexible Fleet Assignment
 {{< tdclose >}}
 {{< tdopen >}}
-Demand Driven Dispatch (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2292410d-1350-3523-26a9-63e5b83c5e06 "PDF" %}})
+Demand Driven Dispatch ({{% resource_link 2292410d-1350-3523-26a9-63e5b83c5e06 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
